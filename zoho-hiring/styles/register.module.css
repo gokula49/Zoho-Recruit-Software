@@ -1,0 +1,132 @@
+.testimonial {
+    position: fixed;
+    top: 0;
+    width: 28%;
+    background: url(https://www.zohowebstatic.com/sites/default/files/z-signup-bg.jpg);
+    content: '';
+    height: 100%;
+    left: 0;
+}
+
+.testimonialBlack {
+    background: rgba(10,20,33,0.9);
+    width: 100%;
+    position: absolute;
+    top: 0;
+    content: '';
+    height: 100%;
+    left: 0;
+}
+
+.content {
+    position: relative;
+    max-width: 80%;
+    color: #fff;
+    text-align: center;
+    font-family: 'Droid Serif',serif,Arial,Helvetica,sans-serif;
+}
+
+.span1 {
+    margin-top: 30%;
+    display: block;
+    overflow: hidden;
+}
+
+.img {
+    max-width: 100%;
+    border-radius: 100%;
+    width: 15%;
+    height: 15%;
+    height: auto;
+}
+
+.para {
+    color: #f2f2f2;
+    margin-left: 10%;
+    margin-right: 5%;
+    line-height: 28px;
+    font-weight: 100;
+    font-size: 17px;
+}
+
+.para1 {
+    color: #00add5;
+    font-size: 11px;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+.logo {
+    color: #333;
+    font-size: 23px;
+    line-height: 48px;
+    margin: 0 0 0 12px;
+    vertical-align: top;
+    font-weight: 500;
+}
+
+.placeholder {
+    top: -8px;
+    font-size: 11px;
+    color: #00add5;
+    left: 0;
+}
+
+.input {
+    background: transparent;
+    border: 1px solid rgba(0,0,0,.8);
+    padding: 5px 10px;
+    font-size: 15px;
+    height: 50px;
+    margin: 0;
+    width: 50%;
+}
+
+.signupBtn {
+    font-size: 15px;
+    height: 50px;
+    padding: 0 10px;
+    background: #f0483e;
+    text-align: center;
+    text-transform: uppercase;
+    border: 0;
+    color: #fff;
+    width: 50%;
+    cursor: pointer;
+    font-weight: 600;
+}
+
+.google {
+    position: absolute;
+    background: url(https://www.zohowebstatic.com/sites/default/files/zoho_general_pages/zgheader-footer-sprite.png) -345px 0px/950px auto no-repeat;
+    width: 100px;
+    height: 40px;
+    font-size: 0;
+}
+
+.socialSign {
+    margin-top: -40px;
+    display: inline-block;
+    cursor: pointer;
+    color: #aaa;
+    font-size: 11px;
+    vertical-align: middle;
+}
+
+.linkedin {
+    margin-left: 110px;
+    position: absolute;
+    background: url(https://www.zohowebstatic.com/sites/default/files/zoho_general_pages/zgheader-footer-sprite.png) 0 0/980px auto no-repeat;
+    width: 40px;
+    height: 40px;
+    background-position: -540px 0;
+}
+
+.office {
+    margin-left: 160px;
+    position: absolute;
+    background: url(https://www.zohowebstatic.com/sites/default/files/zoho_general_pages/zgheader-footer-sprite.png) 0 0/980px auto no-repeat;
+    width: 40px;
+    height: 40px;
+    background-position: -579px 0;
+}

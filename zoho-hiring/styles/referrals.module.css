@@ -1,0 +1,95 @@
+.title {
+    font-size: 1.65rem;
+    font-family: InterLight,sans-serif;
+    padding: 5px 0px;
+    text-align: center;
+}
+
+.box {
+    content: '';
+    width: 40px;
+    height: 40px;
+    z-index: 1;
+    background: #edeff2;
+    border-radius: 0 4px 4px 0;
+    float: right;
+}
+
+.box1 {
+    background: url(https://css.zohostatic.eu/recruit/images/recruit_icons_sprite.b829c60f4228ed9c42252f2d74dae62e.svg) no-repeat;
+    background-position: -414px -1080px;
+    width: 20px;
+    height: 15px;
+    display: inline-block;
+    vertical-align: bottom;
+    margin-top: 13px;
+    margin-right: 5px;
+}
+
+.btn {
+    border: 1px solid transparent;
+    background-color: #e26f63;
+    background-image: none;
+    color: white;
+    padding: 7px 20px 8px;
+    font-size: 1rem;
+    border-radius: 6px;
+    margin: auto;
+    display: flex;
+    cursor: pointer;
+}
+
+.topic {
+    padding: 20px 30px 16px;
+    background-color: #f0f1f3;
+    border-bottom: 1px solid #ccc;
+    box-sizing: border-box;
+    font-size: 1.25rem;
+}
+
+.img1 {
+    width: 30px;
+    height: 30px;
+}
+
+.img2{
+    background: url(https://recruit.zoho.eu/images/recruit_icons_sprite.svg) no-repeat -300px 0;
+    width: 22px;
+    height: 30px;
+    position: absolute;
+    text-align: left;
+}
+
+.txt {
+    width: 60%;
+    border-radius: 5px;
+    padding: 7px 8px 7px !important;
+    color: #171b27;
+    font-size: 0.929rem;
+    margin-right: 15%;
+}
+
+.btn1 {
+    min-width: 31px;
+    border: 1px solid #d0d4df!important;
+    padding: 7px 20px 8px;
+    color: #222833!important;
+    box-shadow: 0 -1px 0 0 #d0d4df inset!important;
+    background: transparent linear-gradient(#fcfdff,#eaeef5) 0 0 no-repeat padding-box!important;
+    border-radius: 6px;
+    cursor: pointer;
+}
+
+.btn2 {
+    min-width: 31px;
+    border: 1px solid #d0d4df!important;
+    padding: 7px 20px 8px;
+    color: white;
+    box-shadow: 0 -1px 0 0 #d0d4df inset!important;
+    background: transparent linear-gradient(0deg,#0279ff,#00a3f3) 0 0 no-repeat padding-box!important;
+    border-radius: 6px;
+    cursor: pointer;
+    margin-left: 20px;
+}
+
+

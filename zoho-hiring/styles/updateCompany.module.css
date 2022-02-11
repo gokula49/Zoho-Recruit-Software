@@ -1,0 +1,35 @@
+.title {
+    padding: 20px 30px 16px;
+    background-color: #f0f1f3;
+    border-bottom: 1px solid #ccc;
+    box-sizing: border-box;
+    font-size: 1.25rem;
+}
+
+.upload {
+    color: #5993c1;
+    font-size: 12px;
+}
+
+.btn1 {
+    border: 1px solid #4ca2ff !important;
+    border-radius: 4px;
+    color: #0078ff;
+    background: #edf6ff !important;
+    display: inline-block;
+    box-shadow: 0 -2px 0 0 rgb(0 97 202 / 30%) inset !important;
+    cursor: pointer;
+    padding: 5px !important;
+    margin-left: 150px;
+}
+
+.btn2 {
+    color: #fff;
+    border-radius: 4px;
+    border: 0px !important;
+    box-shadow: 0 -2px 0 0 #0061ca inset !important;
+    background: transparent linear-gradient(0deg ,#0279ff,#00a3f3) 0 0 no-repeat padding-box !important;
+    cursor: pointer;
+    padding: 5px !important;
+    margin-left: 30px;
+}

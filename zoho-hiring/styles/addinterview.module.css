@@ -1,0 +1,23 @@
+
+.topdiv{
+    display: flex;
+    justify-content: space-between;
+    margin:0.2rem;
+    width: 100%;
+}
+
+.inputs{
+    width: 350px;
+    height: 40px;
+    margin: 12px;
+    border-radius: 3px;
+}
+
+
+.tables{
+  
+   /* margin-right:1px; */
+
+}
+
+
